@@ -12,5 +12,5 @@ Funcionalidade: Login
     E preencher campo de usuario
     E preencher campo de senha
     E clicar para logar
-    Entao e logado com sucesso
+    Entao logado com sucesso
  
